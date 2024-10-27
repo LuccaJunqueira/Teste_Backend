@@ -232,7 +232,7 @@ print(fila_FIFO.get())
 
 #11-crie uma lista e adicione um item novo a ela utilizando a metodolofia LIFO
 
-#Importei a estrutura deque do modo collections, usei uma lista para armazenar os itens, com append adicionamos ao final da lista e com o popleft removemos o primeiro elemento da lista
+#Importei a estrutura deque do módulo collections, usei uma lista para armazenar os itens, com append adicionamos ao final da lista e com o popleft removemos o primeiro elemento da lista
 
 from collections import deque
 
